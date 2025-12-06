@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ともに",
+  "base_artist": "WANIMA",
+  "createdAt": "2025-12-06T05:31:05.008342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ともに",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/01_ともに_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ともに - Tomoni",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/02_ともに_-_Tomoni_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ともに - Tomoni",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/03_ともに_-_Tomoni_WANIMA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ともに",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/04_ともに_WANIMA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ともに",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/pl_01_ともに_WANIMA.txt"
+    }
+  ]
+}
